@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <p><b>Top Games</b></p>
+    <table>
+        <tr>
+           
+            <th >No</th>
+            <th >Description</th>
+            <th >Logo</th>
+            
+        </tr>
+        <tr>
+            <td><h2>1</h2></td>
+            <td>Mobile legend</td>
+            <td > <img src="/MobileLegend.jpg" alt="ml"/> </td>
+        </tr>
+        <tr>
+            <td><h2>2</h2></td>
+            <td>Valorant</td>
+            <td><img src="/valorant.jpg" /></td>
+        </tr>
+        <tr>
+            <td><h2>3</h2></td>
+            <td>League Of Legend</td>
+            <td><img src="/Lol.jpeg" ></td>
+        </tr>
+    </table>
+</body>
+</html>
