@@ -1,0 +1,76 @@
+body{
+  background-image: url("/jGlzr.png");
+
+ background-size:cover;
+ backface-visibility: inherit;
+  text-align: center;
+}
+.image{
+  position: fixed;
+}
+label{
+    color: rgb(25, 29, 31);
+    font-weight: bold;
+    font-style:unset;
+    font-size: 20px;
+
+}
+input{
+    background-color: rgba(223, 255, 255, 0.521);
+    border-radius: 30px;
+    color: solid black;
+    padding: 10px;
+    
+    
+
+
+}input[type=datetime-local]{
+  background-color: #87ce8a;
+  font-size: 20px;
+  font-size: 20px;
+}
+fieldset{
+    background-color: rgba(204, 239, 255, 0.404);
+    width: 30em;
+    border: thin solid rgb(0, 255, 85);
+    border-radius: 50px;
+    margin: auto;
+    
+   
+}
+legend {
+  font-weight: bolder;
+  font-style: italic;
+  color: black solid;
+  background: rgb(242, 247, 248);
+  border-radius: 30px;
+  font-size: 20px;
+  
+}
+option{
+    color: blueviolet;
+}h1{
+  font-weight: bold;
+  color: rgb(0, 255, 0);
+  font-style: oblique;
+  font-size: 40px;
+
+}h1:hover{
+  color: rgb(1, 150, 38);
+    text-shadow: 0 10px 5px #0bffff,
+    0 5px 25px #03f40f, 10px 10px 50px #17f403,0 0 100px #1afc4b;
+}button{
+  border-radius: 30px;
+  color: aqua;
+  font-size: 20px;
+  background-color: darkslategray;
+  padding: 20px;
+}textarea{
+  border-radius: 20px;
+}option{
+  background-color: #c6fd009d;
+}select{
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 40px;
+}
